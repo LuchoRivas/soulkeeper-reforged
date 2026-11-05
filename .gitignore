@@ -1,0 +1,9 @@
+# Builds
+build/
+# Tools and misc
+tools/.cache/
+__pycache__/
+# (common.j / Blizzard.j)
+refs/
+# Local, personal files
+*.local*
