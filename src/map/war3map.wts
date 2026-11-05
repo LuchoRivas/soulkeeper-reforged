@@ -1,0 +1,3965 @@
+﻿STRING 1
+{
+|cff3366ffSoulkeeperTD Showdown1.1|r
+}
+
+STRING 2
+{
+Full House
+}
+
+STRING 4
+{
+EnTrA1L
+}
+
+STRING 5
+{
+Spieler 1
+}
+
+STRING 7
+// Units: h001 (Arrow Tower), Name (Name)
+{
+Arrow Tower
+}
+
+STRING 10
+{
+|cff3366ff[ EnTrA1L presents ]|r
+}
+
+STRING 11
+{
+|cff3366ffSoulkeeper TD |r |cffffffffv1.1|r
+}
+
+STRING 13
+// Units: h000 (Stomp Tower), Name (Name)
+{
+Stomp Tower
+}
+
+STRING 14
+// Units: h003 (Sacred Tower), Name (Name)
+{
+Sacred Tower
+}
+
+STRING 20
+// Units: h004 (Makaveli Tower), Name (Name)
+{
+Makaveli Tower
+}
+
+STRING 28
+// Units: h000 (Stomp Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc0060|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Siege|r
+Features: |cffffcc00-|r
+}
+
+STRING 29
+// Units: h001 (Arrow Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc0030|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00-|r
+}
+
+STRING 32
+// Doodads: D002 (Next Level in:), Name (Name)
+{
+Next Level in:
+}
+
+STRING 44
+// Abilities: A000 (Speed Aura), Name (Name)
+{
+Speed Aura
+}
+
+STRING 45
+// Abilities: A000 (Speed Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Raises the Attack Speed from nearby Tower by <AOae,DataB2,%>%.
+}
+
+STRING 47
+{
+|cffff3300Showdown!|r
+|cffff3300Try to be the first player, who reaches the finish! [Level 50]|r
+Use towers, skills and upgrades wise to win! Your Tree of Souls is also your Upgrade Center!
+If you are under the Top 3, you get the combination for the secret tower!
+------------------------------------------------------------------------
+Found a bug? Plz tell me! (/w EnTrA1L)
+|cff3366ffA big ThX to Icefear, n2L.ryu, infern0., L0rdCurSe and all other testers!!|r 
+
+|cffff3344gL & hF|r 
+
+}
+
+STRING 56
+// Units: h00A (Arrow Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00270|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00Speed Aura|r
+}
+
+STRING 57
+// Units: h006 (Arrow Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc0090|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00-|r
+}
+
+STRING 81
+{
+Spieler 2
+}
+
+STRING 82
+{
+Spieler 3
+}
+
+STRING 83
+{
+Spieler 4
+}
+
+STRING 84
+{
+Spieler 5
+}
+
+STRING 85
+{
+Spieler 6
+}
+
+STRING 86
+{
+Spieler 7
+}
+
+STRING 87
+{
+Spieler 8
+}
+
+STRING 88
+{
+Creeps
+}
+
+STRING 89
+{
+Soulkeepers
+}
+
+STRING 90
+{
+--Defeated--
+}
+
+STRING 91
+{
+---Quit---
+}
+
+STRING 95
+// Units: h007 (Stomp Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00480|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Siege|r
+Features: |cffffcc00-|r
+}
+
+STRING 104
+// Abilities: AEbl (Blink), Name (Name)
+{
+Blink
+}
+
+STRING 105
+// Units: etol (Tree of Souls), Name (Name)
+{
+Tree of Souls
+}
+
+STRING 115
+// Doodads: D000 (Welcome to |cffffcc00S o u l k e e p e r TD|r), Name (Name)
+{
+Welcome to |cffffcc00S o u l k e e p e r TD|r
+}
+
+STRING 116
+{
+Protect your Tree of Souls, otherwise the Creeps will destroy it to get the magical Souls which are inside it...|cff3366ffby EnTrA1L|r
+}
+
+STRING 121
+// Units: u000 (Warden of Souls), Name (Name)
+{
+Warden of Souls
+}
+
+STRING 123
+// Abilities: AEbl (Blink), Ubertip (Tooltip - Normal - Extended)
+{
+Short distance teleportation of your Warden.
+}
+
+STRING 130
+// Abilities: A003 (Sell), Name (Name)
+{
+Sell
+}
+
+STRING 131
+// Abilities: A003 (Sell), Tip (Tooltip - Normal)
+{
+Sell
+}
+
+STRING 141
+{
+Stay in your Area!
+}
+
+STRING 149
+// Units: h002 (Hydra Tower), Name (Name)
+{
+Hydra Tower
+}
+
+STRING 153
+// Units: h009 (Infernal Tower), Name (Name)
+{
+Infernal Tower
+}
+
+STRING 156
+// Upgrades: R001 (Plündern erforschen), Name (Name)
+{
+Souls of Water
+}
+
+STRING 157
+// Upgrades: R001 (Plündern erforschen), Tip (Tooltip)
+{
+Learn |cffffcc00Souls of Water|r
+}
+
+STRING 159
+// Upgrades: R002 (Plündern erforschen), Name (Name)
+{
+Souls of Fire
+}
+
+STRING 160
+// Upgrades: R002 (Plündern erforschen), Tip (Tooltip)
+{
+Learn |cffffcc00Souls of Fire|r
+}
+
+STRING 162
+// Abilities: AEbl (Blink), Tip (Tooltip - Normal)
+{
+|cffffcc00Blink|r (E)
+}
+
+STRING 166
+// Abilities: A003 (Sell), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 169
+// Units: h00A (Arrow Tower III), Name (Name)
+{
+Arrow Tower III
+}
+
+STRING 170
+// Units: h006 (Arrow Tower II), Name (Name)
+{
+Arrow Tower II
+}
+
+STRING 171
+// Units: h007 (Stomp Tower II), Name (Name)
+{
+Stomp Tower II
+}
+
+STRING 172
+// Units: h008 (Stomp Tower III), Name (Name)
+{
+Stomp Tower III
+}
+
+STRING 174
+// Units: h003 (Sacred Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00125|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Slow|r
+}
+
+STRING 248
+// Items: I000 (Hard), Name (Name)
+{
+Hard
+}
+
+STRING 249
+// Items: I000 (Hard), Tip (Tooltip - Basic)
+{
+Chose Difficulty:
+}
+
+STRING 279
+// Doodads: D001 (Protect your Tree of Souls, otherwise the Creeps will destroy it to get the mag), Name (Name)
+{
+Protect your Tree of Souls, otherwise the Creeps will destroy it to get the magical Souls which are inside it...
+You can use the special skills of the ToS..
+}
+
+STRING 305
+{
+Stay in your Area!
+}
+
+STRING 306
+{
+Stay in your Area!
+}
+
+STRING 307
+{
+Stay in your Area!
+}
+
+STRING 308
+{
+Stay in your Area!
+}
+
+STRING 309
+{
+Stay in your Area!
+}
+
+STRING 310
+{
+Stay in your Area!
+}
+
+STRING 311
+{
+Stay in your Area!
+}
+
+STRING 312
+{
+All Players have been defeated!
+}
+
+STRING 342
+// Units: h005 (Destiny Tower), Name (Name)
+{
+Destiny Tower
+}
+
+STRING 343
+// Units: h005 (Destiny Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Destiny Tower|r
+}
+
+STRING 344
+// Units: h005 (Destiny Tower), Ubertip (Tooltip - Extended)
+{
+==Secret Tower== 
+A pure Soul.
+}
+
+STRING 346
+{
+Level 1 in:
+}
+
+STRING 347
+{
+Welcome to |cffff3300S o u l k e e p e r TD|r
+}
+
+STRING 352
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 364
+// Units: h00B (Critical Striker), Name (Name)
+{
+Critical Striker
+}
+
+STRING 375
+// Units: h00B (Critical Striker), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00125|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Critical Strike [40%//3X]|r
+}
+
+STRING 376
+// Units: h00C (Critical Striker II), Name (Name)
+{
+Critical Striker II
+}
+
+STRING 378
+// Units: h00C (Critical Striker II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00520|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Critical Strike [40%//3.5X]|r
+}
+
+STRING 379
+// Units: h00D (Critical Striker III), Name (Name)
+{
+Critical Striker III
+}
+
+STRING 382
+// Abilities: A001 (Critical Strike I), Name (Name)
+{
+Critical Strike I
+}
+
+STRING 383
+// Abilities: A001 (Critical Strike I), Tip (Tooltip - Normal)
+{
+Critical Strike [|cffffcc00LvL I|r]
+}
+
+STRING 384
+// Abilities: A002 (Critical Strike II), Name (Name)
+{
+Critical Strike II
+}
+
+STRING 385
+// Abilities: A002 (Critical Strike II), Tip (Tooltip - Normal)
+{
+Critical Strike [|cffffcc00LvL II|r]
+}
+
+STRING 386
+// Abilities: A004 (Critical Strike III), Name (Name)
+{
+Critical Strike III
+}
+
+STRING 387
+// Abilities: A004 (Critical Strike III), Tip (Tooltip - Normal)
+{
+Critical Strike [|cffffcc00LvL III|r]
+}
+
+STRING 389
+// Units: h001 (Arrow Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Arrow Tower|r [|cffff0000A|r]
+}
+
+STRING 390
+// Units: h001 (Arrow Tower), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 391
+// Units: h002 (Hydra Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Hydra Tower|r [|cffff0000H|r]
+}
+
+STRING 392
+// Units: h002 (Hydra Tower), Hotkey (Hotkey)
+{
+H
+}
+
+STRING 395
+// Units: h006 (Arrow Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Arrow Tower II|r [|cffff0000A|r]
+}
+
+STRING 396
+// Units: h006 (Arrow Tower II), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 399
+// Units: h009 (Infernal Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Infernal Tower|r [|cffff0000I|r]
+}
+
+STRING 400
+// Units: h009 (Infernal Tower), Hotkey (Hotkey)
+{
+I
+}
+
+STRING 401
+// Units: h00A (Arrow Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Arrow Tower III|r [|cffff0000A|r]
+}
+
+STRING 402
+// Units: h00A (Arrow Tower III), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 404
+// Units: h003 (Sacred Tower), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 406
+// Units: h00H (Divine Tower), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 408
+// Units: h00J (Natural Tower II), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 414
+// Units: h00E (Nightmare Tower), Name (Name)
+{
+Nightmare Tower
+}
+
+STRING 418
+// Units: h008 (Stomp Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc001320|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Siege|r
+Features: |cffffcc00Stun|r
+}
+
+STRING 422
+// Abilities: A001 (Critical Strike I), Ubertip (Tooltip - Normal - Extended)
+{
+40% Chance, 3X Normal DMG
+}
+
+STRING 423
+// Abilities: A002 (Critical Strike II), Ubertip (Tooltip - Normal - Extended)
+{
+40% Chance, 3,5X Normal DMG
+}
+
+STRING 424
+// Abilities: A004 (Critical Strike III), Ubertip (Tooltip - Normal - Extended)
+{
+40% Chance, 4X Normal DMG
+}
+
+STRING 426
+// Units: h00F (Nightmare Tower II), Name (Name)
+{
+Nightmare Tower II
+}
+
+STRING 430
+// Units: h00G (Nightmare Tower III), Name (Name)
+{
+Nightmare Tower III
+}
+
+STRING 435
+// Abilities: A005 (Poison III), Name (Name)
+{
+Poison III
+}
+
+STRING 437
+// Abilities: A006 (Poison I), Name (Name)
+{
+Poison I
+}
+
+STRING 439
+// Abilities: A007 (Poison II), Name (Name)
+{
+Poison II
+}
+
+STRING 440
+// Units: h00H (Divine Tower), Name (Name)
+{
+Divine Tower
+}
+
+STRING 442
+// Units: h00H (Divine Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00530|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Slow|r
+}
+
+STRING 443
+// Units: h004 (Makaveli Tower), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 444
+// Abilities: A008 (Slow II), Name (Name)
+{
+Slow II
+}
+
+STRING 445
+// Abilities: A008 (Slow II), Tip (Tooltip - Normal)
+{
+Slow II
+}
+
+STRING 446
+// Abilities: A009 (Slow I), Name (Name)
+{
+Slow I
+}
+
+STRING 447
+// Abilities: A009 (Slow I), Tip (Tooltip - Normal)
+{
+Slow I
+}
+
+STRING 448
+// Units: h00D (Critical Striker III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc001250|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Critical Strike [40%//4X]|r
+}
+
+STRING 451
+// Abilities: A006 (Poison I), Ubertip (Tooltip - Normal - Extended)
+{
+100 DMG/sec
+}
+
+STRING 453
+// Abilities: A008 (Slow II), Ubertip (Tooltip - Normal - Extended)
+{
+Slows the creep.
+}
+
+STRING 454
+// Abilities: A009 (Slow I), Ubertip (Tooltip - Normal - Extended)
+{
+Slows the creep.
+}
+
+STRING 455
+// Units: h00I (Natural Tower), Name (Name)
+{
+Natural Tower
+}
+
+STRING 458
+// Units: h000 (Stomp Tower), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 459
+// Units: h00J (Natural Tower II), Name (Name)
+{
+Natural Tower II
+}
+
+STRING 462
+// Units: h007 (Stomp Tower II), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 463
+// Units: h00K (Natural Tower III), Name (Name)
+{
+Natural Tower III
+}
+
+STRING 466
+// Units: h008 (Stomp Tower III), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 470
+// Abilities: AHbh (Stun), Name (Name)
+{
+Stun
+}
+
+STRING 471
+// Abilities: AHbh (Stun), Ubertip (Tooltip - Normal - Extended)
+{
+Chance:  20%
+Durance: 2sec
+}
+
+STRING 472
+// Units: h00L (?=Secret Tower=?), Tip (Tooltip - Basic)
+{
+|cffffcc00?=Secret Tower=?|r
+}
+
+STRING 474
+// Units: h00L (?=Secret Tower=?), Name (Name)
+{
+?=Secret Tower=?
+}
+
+STRING 481
+{
+Info (|Cfffed312F9|R)
+}
+
+STRING 482
+{
+Information:
+}
+
+STRING 483
+{
+Info
+}
+
+STRING 510
+{
+Soulkeeper TD
+}
+
+STRING 511
+{
+The evil Creeps attack and want the Souls, which are inside of the Trees of Souls!! The Trees are since the birth of the earth holy and important for every being. You have to protect your ToS with Towers! You can use special skills of the ToS, which will help you.
+Try to be the first player, who reaches the finish!!
+-There are 50 Waves
+-Every 10th Level is a Boss-Level
+-22, 33 and 44 are Invisible
+}
+
+STRING 512
+{
+The Secret Tower
+}
+
+STRING 513
+{
+If you beat the game and you get 1st, 2nd or 3rd Place, you get a combination which you have to type  on your keyboard the next time you play Soulkeeper TD! Then you get a new Special Tower, which makes you different from the players, who didn't win yet! It is not an ultimate imba tower, but it will help you!
+}
+
+STRING 515
+{
+|cff3366ffInvis Levels are: 22, 33, 44|r 
+}
+
+STRING 517
+{
+Invisible Level
+}
+
+STRING 518
+{
+Watch the Invisible Levels!! You can see the Creeps, if you have upgraded "Eyes of Souls" at the ToS.
+}
+
+STRING 519
+{
+Info
+}
+
+STRING 520
+{
+Current Version: 1.1b
+Soulkeeper TD by EnTrA1L
+(C) 2006 
+}
+
+STRING 525
+// Units: h000 (Stomp Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Stomp Tower|r [|cffff0000B|r]
+}
+
+STRING 528
+// Units: h00M (Dark Tower), Hotkey (Hotkey)
+{
+H
+}
+
+STRING 529
+// Units: h007 (Stomp Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Stomp Tower II|r [|cffff0000B|r]
+}
+
+STRING 530
+// Units: h008 (Stomp Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Stomp Tower III|r [|cffff0000B|r]
+}
+
+STRING 535
+// Units: h00I (Natural Tower), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 537
+// Units: h00O (Zeus Tower II), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 539
+// Units: h005 (Destiny Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 540
+// Units: h00G (Nightmare Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Nightmare Tower III|r [|cffff0000E|r]
+}
+
+STRING 541
+// Units: h00G (Nightmare Tower III), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 542
+// Units: h00F (Nightmare Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Nightmare Tower II|r [|cffff0000E|r]
+}
+
+STRING 543
+// Units: h00F (Nightmare Tower II), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 544
+// Units: h00P (Zeus Tower III), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 546
+// Units: h00J (Natural Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Natural Tower II|r [|cffff0000C|r]
+}
+
+STRING 547
+// Units: h00K (Natural Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Natural Tower III|r [|cffff0000C|r]
+}
+
+STRING 549
+// Abilities: A00A (Eyes of Souls), Name (Name)
+{
+Eyes of Souls
+}
+
+STRING 550
+// Upgrades: R005 (Magischer Schutz), Tip (Tooltip)
+{
+|cffffcc00Eyes of Souls|r
+}
+
+STRING 551
+// Upgrades: R005 (Magischer Schutz), Ubertip (Tooltip - Extended)
+{
+Upgrade this and your towers can see the invisible creeps.
+}
+
+STRING 556
+{
+For information press |cff3366ffF9|r 
+}
+
+STRING 557
+// Abilities: A00A (Eyes of Souls), Ubertip (Tooltip - Normal - Extended)
+{
+Shows the invisible Creeps.
+}
+
+STRING 558
+// Abilities: A00A (Eyes of Souls), Tip (Tooltip - Normal)
+{
+Eyes of Souls
+}
+
+STRING 559
+// Abilities: A005 (Poison III), Ubertip (Tooltip - Normal - Extended)
+{
+1000 DMG/sec
+}
+
+STRING 560
+// Abilities: A007 (Poison II), Ubertip (Tooltip - Normal - Extended)
+{
+500 DMG/sec
+}
+
+STRING 561
+// Upgrades: R005 (Magischer Schutz), Name (Name)
+{
+Eyes of Souls
+}
+
+STRING 562
+// Abilities: A003 (Sell), Ubertip (Tooltip - Normal - Extended)
+{
+Sell your Tower and get 50% back of what you have paid.
+}
+
+STRING 564
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 565
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 567
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 568
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 572
+{
+Dark Souls:
+}
+
+STRING 573
+{
+Dark Souls
+}
+
+STRING 574
+{
+These are your current Dark Souls.
+}
+
+STRING 576
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 577
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 578
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 579
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 580
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 581
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 582
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 583
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 584
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Convert Souls
+}
+
+STRING 585
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 586
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 587
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 588
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 589
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 590
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 591
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 592
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 593
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Convert Souls|r
+}
+
+STRING 603
+// Units: h00M (Dark Tower), Name (Name)
+{
+Dark Tower
+}
+
+STRING 604
+// Units: h00M (Dark Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Dark Tower|r [|cffff0000H|r]
+}
+
+STRING 605
+// Units: h00M (Dark Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00680|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Chaoz|r
+Features: |cffffcc00Very Far Range|r
+}
+
+STRING 609
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 610
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 611
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 612
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 613
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 614
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 615
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 616
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 617
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Name (Name)
+{
+Soul Regeneration
+}
+
+STRING 618
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 619
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 620
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 621
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 622
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 623
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 624
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 625
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 626
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Tip (Tooltip)
+{
+|cffffcc00Soul Regenration|r
+}
+
+STRING 646
+// Units: h00N (Zeus Tower), Name (Name)
+{
+Zeus Tower
+}
+
+STRING 649
+// Units: h00Q (Sorcery Tower), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 652
+// Units: h00N (Zeus Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00100|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Lightning|r
+}
+
+STRING 656
+// Units: h00R (Sorcery Tower III), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 661
+// Units: h00O (Zeus Tower II), Name (Name)
+{
+Zeus Tower II
+}
+
+STRING 663
+// Units: h00O (Zeus Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00400|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Lightning|r
+}
+
+STRING 664
+// Units: h00P (Zeus Tower III), Name (Name)
+{
+Zeus Tower III
+}
+
+STRING 667
+// Units: h00S (Sorcery Tower II), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 668
+// Abilities: A005 (Poison III), Tip (Tooltip - Normal)
+{
+Poison III
+}
+
+STRING 669
+// Abilities: A006 (Poison I), Tip (Tooltip - Normal)
+{
+Poison I
+}
+
+STRING 670
+// Abilities: A007 (Poison II), Tip (Tooltip - Normal)
+{
+Poison II
+}
+
+STRING 671
+// Abilities: A00B (Lightning I), Name (Name)
+{
+Lightning I
+}
+
+STRING 672
+// Abilities: A00C (Lightning II), Name (Name)
+{
+Lightning II
+}
+
+STRING 676
+// Abilities: A00B (Lightning I), Tip (Tooltip - Normal)
+{
+|cffffcc00Lightning I|r
+}
+
+STRING 677
+// Abilities: A00C (Lightning II), Tip (Tooltip - Normal)
+{
+|cffffcc00Lightning II|r
+}
+
+STRING 678
+// Abilities: A00D (Lightning III), Name (Name)
+{
+Lightning III
+}
+
+STRING 679
+// Abilities: A00D (Lightning III), Tip (Tooltip - Normal)
+{
+|cffffcc00Lightning III|r
+}
+
+STRING 682
+// Abilities: A00E (Darkness Wave), Name (Name)
+{
+Darkness Wave
+}
+
+STRING 683
+// Abilities: A00E (Darkness Wave), Tip (Tooltip - Normal)
+{
+|cffffcc00Darkness Wave|r
+}
+
+STRING 684
+// Abilities: A00E (Darkness Wave), Ubertip (Tooltip - Normal - Extended)
+{
+A Wave of Darkness-Energy which makes <AUcs,DataA1> Damage. 
+}
+
+STRING 685
+// Abilities: A000 (Speed Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases the Attack Speed from nearby Tower by <AOae,DataB1,%>%.
+}
+
+STRING 686
+// Units: e000 (Hall of Souls), Name (Name)
+{
+Hall of Souls
+}
+
+STRING 687
+// Units: e000 (Hall of Souls), Tip (Tooltip - Basic)
+{
+Build |cffffcc00Hall of Souls|r
+}
+
+STRING 688
+// Units: e000 (Hall of Souls), Ubertip (Tooltip - Extended)
+{
+Build a Hall of Souls and you can Train a better Warden to build better towers.
+>>Does Not Attack!!<<
+}
+
+STRING 689
+// Units: h00Q (Sorcery Tower), Name (Name)
+{
+Sorcery Tower
+}
+
+STRING 690
+// Units: h00Q (Sorcery Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Sorcery Tower|r [|cffff0000A|r]
+}
+
+STRING 691
+// Units: h00Q (Sorcery Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc0050|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00-|r
+}
+
+STRING 693
+// Units: h00R (Sorcery Tower III), Name (Name)
+{
+Sorcery Tower III
+}
+
+STRING 694
+// Units: h00R (Sorcery Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Sorcery Tower III|r [|cffff0000A|r]
+}
+
+STRING 697
+// Units: h00S (Sorcery Tower II), Name (Name)
+{
+Sorcery Tower II
+}
+
+STRING 698
+// Units: h00S (Sorcery Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Sorcery Tower II|r [|cffff0000A|r]
+}
+
+STRING 701
+// Abilities: A00F (Sorcery I), Name (Name)
+{
+Sorcery I
+}
+
+STRING 702
+// Abilities: A00F (Sorcery I), Tip (Tooltip - Normal)
+{
+|cffffcc00Sorcery I|r
+}
+
+STRING 703
+// Abilities: A00F (Sorcery I), Ubertip (Tooltip - Normal - Extended)
+{
+Transforms an enemy unit for 15 seconds in a random animal.
+}
+
+STRING 704
+// Abilities: A00G (Sorcery II), Name (Name)
+{
+Sorcery II
+}
+
+STRING 705
+// Abilities: A00G (Sorcery II), Tip (Tooltip - Normal)
+{
+|cffffcc00Sorcery II|r
+}
+
+STRING 706
+// Abilities: A00G (Sorcery II), Ubertip (Tooltip - Normal - Extended)
+{
+Transforms an enemy unit for 20 seconds in a random animal.
+}
+
+STRING 707
+// Abilities: A00H (Sorcery III), Name (Name)
+{
+Sorcery III
+}
+
+STRING 708
+// Abilities: A00H (Sorcery III), Tip (Tooltip - Normal)
+{
+|cffffcc00Sorcery III|r
+}
+
+STRING 709
+// Abilities: A00H (Sorcery III), Ubertip (Tooltip - Normal - Extended)
+{
+Transforms an enemy unit for 25 seconds in a random animal.
+}
+
+STRING 724
+{
+|cffff3300You don't have enough Souls! Conversion canceled..|r
+}
+
+STRING 725
+{
+|cffff3300You don't have enough Souls! It won't work!|r
+}
+
+STRING 726
+// Abilities: A00I (Change Warden I), Name (Name)
+{
+Change Warden I
+}
+
+STRING 727
+// Abilities: A00I (Change Warden I), Ubertip (Tooltip - Normal - Extended)
+{
+Changes the Warden that you can build more towers.
+}
+
+STRING 728
+// Abilities: A00J (Change Warden II), Name (Name)
+{
+Change Warden II
+}
+
+STRING 730
+// Abilities: A00J (Change Warden II), Ubertip (Tooltip - Normal - Extended)
+{
+Changes the Warden that you can build more towers.
+}
+
+STRING 743
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 744
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 745
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 746
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 747
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 748
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 749
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 750
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 751
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 752
+// Upgrades: R004 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Converts 100 Souls in 1 Dark Soul so that you can build Makaveli.
+}
+
+STRING 753
+// Units: h004 (Makaveli Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc005000|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Chaoz|r
+Features: |cffffcc00Stun, Poison|r
+}
+
+STRING 754
+// Abilities: A00B (Lightning I), Ubertip (Tooltip - Normal - Extended)
+{
+Summons a lightning, which bounces 5 times and makes 300 dmg on the first target.
+}
+
+STRING 755
+// Abilities: A00C (Lightning II), Ubertip (Tooltip - Normal - Extended)
+{
+Summons a lightning, which bounces 6 times and makes 1000 dmg on the first target. Low reduction.
+}
+
+STRING 758
+// Units: h00R (Sorcery Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00600|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Armor-Reduction|r
+}
+
+STRING 759
+// Units: h00S (Sorcery Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00200|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Armor-Reduction|r
+}
+
+STRING 760
+// Abilities: A00K (Roots of Nature I), Name (Name)
+{
+Roots of Nature I
+}
+
+STRING 761
+// Abilities: A00K (Roots of Nature I), Tip (Tooltip - Normal)
+{
+|cffffcc00Roots of Nature|r
+}
+
+STRING 763
+// Abilities: A00L (Roots of Nature II), Name (Name)
+{
+Roots of Nature II
+}
+
+STRING 764
+// Abilities: A00L (Roots of Nature II), Tip (Tooltip - Normal)
+{
+|cffffcc00Roots of Nature II|r
+}
+
+STRING 766
+// Abilities: A00M (Roots of Nature III), Name (Name)
+{
+Roots of Nature III
+}
+
+STRING 767
+// Abilities: A00M (Roots of Nature III), Tip (Tooltip - Normal)
+{
+|cffffcc00Roots of Nature III|r
+}
+
+STRING 769
+// Units: h00I (Natural Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00110|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00Roots of Nature|r
+}
+
+STRING 770
+// Units: h00J (Natural Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00440|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00Roots of Nature|r
+}
+
+STRING 771
+// Units: h00K (Natural Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc001320|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00Roots of Nature|r
+}
+
+STRING 772
+// Abilities: A00I (Change Warden I), Tip (Tooltip - Normal)
+{
+|cffffcc00Change Warden|r [|cffff0000X|r]
+}
+
+STRING 773
+// Abilities: A00I (Change Warden I), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 774
+// Abilities: A00J (Change Warden II), Tip (Tooltip - Normal)
+{
+|cffffcc00Change Warden|r [|cffff0000X|r]
+}
+
+STRING 775
+// Abilities: A00J (Change Warden II), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 776
+// Units: h004 (Makaveli Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Makaveli Tower|r [|cffff0000D|r]
+}
+
+STRING 777
+// Units: h003 (Sacred Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Sacred Tower|r [|cffff0000C|r]
+}
+
+STRING 778
+// Units: h00B (Critical Striker), Tip (Tooltip - Basic)
+{
+|cffffcc00Critical Striker|r [|cffff0000B|r]
+}
+
+STRING 779
+// Units: h00B (Critical Striker), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 780
+// Units: h00C (Critical Striker II), Tip (Tooltip - Basic)
+{
+|cffffcc00Critical Striker II|r [|cffff0000B|r]
+}
+
+STRING 781
+// Units: h00C (Critical Striker II), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 782
+// Units: h00D (Critical Striker III), Tip (Tooltip - Basic)
+{
+|cffffcc00Critical Striker III|r [|cffff0000B|r]
+}
+
+STRING 783
+// Units: h00D (Critical Striker III), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 784
+// Units: h00N (Zeus Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 785
+// Units: h00H (Divine Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Divine Tower|r [|cffff0000C|r]
+}
+
+STRING 786
+// Units: h00K (Natural Tower III), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 787
+// Units: h00W (Forbearance), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 789
+// Units: h00O (Zeus Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Zeus Tower II|r [|cffff0000D|r]
+}
+
+STRING 790
+// Units: h00P (Zeus Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Zeus Tower III|r [|cffff0000D|r]
+}
+
+STRING 799
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 800
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 801
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 802
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 803
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 804
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 805
+{
+|cffffcc00<<Destiny Tower>> has been activated!|r
+}
+
+STRING 810
+{
+Spieler 12
+}
+
+STRING 811
+{
+Next Level in:
+}
+
+STRING 812
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 813
+{
+       Game Over!
+ All Players are dead!
+}
+
+STRING 816
+{
+Soulkeeper TD
+}
+
+STRING 817
+{
+------------Souls--------Level-
+}
+
+STRING 820
+{
+
+}
+
+STRING 823
+{
+Master Tree of Souls
+}
+
+STRING 824
+// Units: e001 (Master Tree of Souls), Name (Name)
+{
+Master Tree of Souls
+}
+
+STRING 826
+{
+|cffff3300The Game goes on! Who becomes 2nd Place?!|r
+}
+
+STRING 828
+{
+Next Level in:
+}
+
+STRING 842
+{
+Next Level in:
+}
+
+STRING 843
+{
+Master Tree of Souls
+}
+
+STRING 845
+{
+|cffff3300Bronze has to be decided! Let's see who becomes 3rd...|r
+}
+
+STRING 846
+{
+
+}
+
+STRING 847
+{
+
+}
+
+STRING 848
+{
+
+}
+
+STRING 849
+{
+Master Tree of Souls
+}
+
+STRING 852
+{
+Master Tree of Souls
+}
+
+STRING 853
+// Buildings\NightElf\TreeOfLife\TreeOfLifeYes2.wav
+{
+These are the best three |cffff3300Soulkeepers|r today!
+Congratulations!
+}
+
+STRING 854
+{
+Game ends in:
+}
+
+STRING 857
+{
+Type the following button-combination in the next game to get the Destiny Tower!
+The combination is: |cffffcc00"ESC  <-    ->"|r
+}
+
+STRING 858
+{
+Type the following button-combination in the next game to get the Destiny Tower!
+The combination is: |cffffcc00"ESC  <-    ->"|r
+}
+
+STRING 859
+{
+Type the following button-combination in the next game to get the Destiny Tower!
+The combination is: |cffffcc00"ESC  <-    ->"|r
+}
+
+STRING 861
+{
+Next Level in:
+}
+
+STRING 863
+{
+Next Level in:
+}
+
+STRING 865
+{
+Next Level in:
+}
+
+STRING 867
+{
+Next Level in:
+}
+
+STRING 869
+{
+Next Level in:
+}
+
+STRING 870
+// Units: h00L (?=Secret Tower=?), Ubertip (Tooltip - Extended)
+{
+You have to become 1st. 2nd or 3rd to get the combination for the secret tower.
+}
+
+STRING 873
+{
+Master Tree of Souls
+}
+
+STRING 874
+{
+Master Tree of Souls
+}
+
+STRING 875
+{
+Stay in your Area!
+}
+
+STRING 876
+{
+|cff3366ffBoss Levels are: 10, 20, 30, 40 and 50!|r 
+}
+
+STRING 877
+{
+
+}
+
+STRING 878
+{
+
+}
+
+STRING 882
+// Units: h00P (Zeus Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc001400|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Lightning|r
+}
+
+STRING 883
+// Units: h002 (Hydra Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00820|r
+Speed: |cffffcc00Very Fast|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00-|r
+}
+
+STRING 884
+// Units: h009 (Infernal Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc002060|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00-|r
+}
+
+STRING 885
+{
+|cffff3300May the force be with you...|r
+}
+
+STRING 886
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 887
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 888
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 889
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 890
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 891
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 892
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 893
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 894
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 895
+// Upgrades: R006 (Verbesserte Baukunst,Hoch entwickelte Baukunst,Magische Baukunst), Ubertip (Tooltip - Extended)
+{
+Regenerates 50 Souls of the ToS and increases the defense.
+}
+
+STRING 896
+// Abilities: AHbh (Stun), Tip (Tooltip - Normal)
+{
+Stun
+}
+
+STRING 897
+// Units: h00E (Nightmare Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc0054|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Poison|r
+}
+
+STRING 898
+// Units: h00G (Nightmare Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00678|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Poison|r
+}
+
+STRING 899
+// Units: h00F (Nightmare Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00216|r
+Speed: |cffffcc00Fast|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00Poison|r
+}
+
+STRING 903
+// Abilities: Ax00 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 904
+// Abilities: Ax00 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (summonphoenix)
+}
+
+STRING 905
+// Abilities: Ax01 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 906
+// Abilities: Ax01 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (stomp)
+}
+
+STRING 907
+// Abilities: Ax02 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 908
+// Abilities: Ax02 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (spiritwolf)
+}
+
+STRING 909
+// Abilities: Ax03 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 910
+// Abilities: Ax03 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (thunderclap)
+}
+
+STRING 911
+// Abilities: Ax04 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 912
+// Abilities: Ax04 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (scout)
+}
+
+STRING 913
+// Abilities: Ax05 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 914
+// Abilities: Ax05 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (waterelemental)
+}
+
+STRING 915
+// Abilities: Ax06 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 916
+// Abilities: Ax06 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (tranquility)
+}
+
+STRING 917
+// Abilities: Ax07 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 918
+// Abilities: Ax07 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (taunt)
+}
+
+STRING 919
+// Abilities: Ax08 (Advanced - Untargeted Dummyspell), Name (Name)
+{
+Advanced - Untargeted Dummyspell
+}
+
+STRING 920
+// Abilities: Ax08 (Advanced - Untargeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (howlofterror)
+}
+
+STRING 921
+// Abilities: Ax09 (Advanced - Unit Targeted Dummyspell), Name (Name)
+{
+Advanced - Unit Targeted Dummyspell
+}
+
+STRING 922
+// Abilities: Ax09 (Advanced - Unit Targeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (frostnova)
+}
+
+STRING 923
+// Abilities: Ax0A (Advanced - Unit Targeted Dummyspell), Name (Name)
+{
+Advanced - Unit Targeted Dummyspell
+}
+
+STRING 924
+// Abilities: Ax0A (Advanced - Unit Targeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (purge)
+}
+
+STRING 925
+// Abilities: Ax0B (Advanced - Point Targeted Dummyspell), Name (Name)
+{
+Advanced - Point Targeted Dummyspell
+}
+
+STRING 926
+// Abilities: Ax0B (Advanced - Point Targeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (silence)
+}
+
+STRING 927
+// Abilities: Ax0C (Advanced - Point Targeted Dummyspell), Name (Name)
+{
+Advanced - Point Targeted Dummyspell
+}
+
+STRING 928
+// Abilities: Ax0C (Advanced - Point Targeted Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (dreadlordinferno)
+}
+
+STRING 929
+// Abilities: Ax0D (Advanced - Untargeted Item Dummyspell), Name (Name)
+{
+Advanced - Untargeted Item Dummyspell
+}
+
+STRING 930
+// Abilities: Ax0D (Advanced - Untargeted Item Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (AIim)
+}
+
+STRING 931
+// Abilities: Ax0E (Advanced - Unit Targeted Item Dummyspell), Name (Name)
+{
+Advanced - Unit Targeted Item Dummyspell
+}
+
+STRING 932
+// Abilities: Ax0E (Advanced - Unit Targeted Item Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (Aprg)
+}
+
+STRING 933
+// Abilities: Ax0F (Advanced - Point Targeted Item Dummyspell), Name (Name)
+{
+Advanced - Point Targeted Item Dummyspell
+}
+
+STRING 934
+// Abilities: Ax0F (Advanced - Point Targeted Item Dummyspell), EditorSuffix (Editor Suffix)
+{
+ (Aclf)
+}
+
+STRING 935
+// Abilities: Ax0G (Advanced - Selection Arrow), Name (Name)
+{
+Advanced - Selection Arrow
+}
+
+STRING 936
+// Abilities: Ax0H (Advanced - Choose Hero), Name (Name)
+{
+Advanced - Choose Hero
+}
+
+STRING 937
+// Units: h00X (Forbearance II), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 938
+// Abilities: Ax0H (Advanced - Choose Hero), Tip (Tooltip - Normal)
+{
+|cffffcc00C|rhoose this hero now
+}
+
+STRING 939
+// Abilities: Ax0H (Advanced - Choose Hero), Ubertip (Tooltip - Normal - Extended)
+{
+Click this button to instantly select this hero.
+}
+
+STRING 940
+// Abilities: Ax0I (Advanced - Random Hero), Name (Name)
+{
+Advanced - Random Hero
+}
+
+STRING 941
+// Abilities: Ax0I (Advanced - Random Hero), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 942
+// Abilities: Ax0I (Advanced - Random Hero), Tip (Tooltip - Normal)
+{
+|cffffcc00R|random Hero
+}
+
+STRING 943
+// Abilities: Ax0I (Advanced - Random Hero), Ubertip (Tooltip - Normal - Extended)
+{
+Press this button to get a random hero.
+}
+
+STRING 944
+// Abilities: Sx00 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 945
+// Abilities: Sx00 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Archmage)
+}
+
+STRING 946
+// Abilities: Sx01 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 947
+// Abilities: Sx01 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Paladin)
+}
+
+STRING 948
+// Abilities: Sx02 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 949
+// Abilities: Sx02 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Bloodelf Sorceror)
+}
+
+STRING 950
+// Abilities: Sx03 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 951
+// Abilities: Sx03 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Mountain King)
+}
+
+STRING 952
+// Abilities: Sx04 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 953
+// Abilities: Sx04 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Death Knight)
+}
+
+STRING 954
+// Abilities: Sx05 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 955
+// Abilities: Sx05 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Lich)
+}
+
+STRING 956
+// Abilities: Sx06 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 957
+// Abilities: Sx06 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Dread Lord)
+}
+
+STRING 958
+// Abilities: Sx07 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 959
+// Abilities: Sx07 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Crypt Lord)
+}
+
+STRING 960
+// Abilities: Sx08 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 961
+// Abilities: Sx08 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Demon Hunter)
+}
+
+STRING 962
+// Abilities: Sx09 (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 963
+// Abilities: Sx09 (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Keeper Grove)
+}
+
+STRING 964
+// Abilities: Sx0A (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 965
+// Abilities: Sx0A (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Moon Priestess)
+}
+
+STRING 966
+// Abilities: Sx0B (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 967
+// Abilities: Sx0B (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Warden)
+}
+
+STRING 968
+// Abilities: Sx0C (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 969
+// Abilities: Sx0C (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Blade Master)
+}
+
+STRING 970
+// Abilities: Sx0D (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 971
+// Abilities: Sx0D (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Tauren Chieftain)
+}
+
+STRING 972
+// Abilities: Sx0E (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 973
+// Abilities: Sx0E (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Shadow Hunter)
+}
+
+STRING 974
+// Abilities: Sx0F (Advanced - Morph), Name (Name)
+{
+Advanced - Morph
+}
+
+STRING 975
+// Abilities: Sx0F (Advanced - Morph), EditorSuffix (Editor Suffix)
+{
+ (Far Seer)
+}
+
+STRING 976
+// Abilities: Ax0K (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 977
+// Abilities: Ax0K (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (1)
+}
+
+STRING 978
+// Abilities: Ax0L (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 979
+// Abilities: Ax0L (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (2)
+}
+
+STRING 980
+// Abilities: Ax0M (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 981
+// Abilities: Ax0M (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (4)
+}
+
+STRING 982
+// Abilities: Ax0N (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 983
+// Abilities: Ax0N (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (8)
+}
+
+STRING 984
+// Abilities: Ax0O (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 985
+// Abilities: Ax0O (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (16)
+}
+
+STRING 986
+// Abilities: Ax0P (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 987
+// Abilities: Ax0P (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (32)
+}
+
+STRING 988
+// Abilities: Ax0Q (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 989
+// Abilities: Ax0Q (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (64)
+}
+
+STRING 990
+// Abilities: Ax0R (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 991
+// Abilities: Ax0R (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (128)
+}
+
+STRING 992
+// Abilities: Ax0S (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 993
+// Abilities: Ax0S (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (256)
+}
+
+STRING 994
+// Abilities: Ax0T (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 995
+// Abilities: Ax0T (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (512)
+}
+
+STRING 996
+// Abilities: Ax0U (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 997
+// Abilities: Ax0U (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (1024)
+}
+
+STRING 998
+// Abilities: Ax0V (Advanced - Attack Bonus), Name (Name)
+{
+Advanced - Attack Bonus
+}
+
+STRING 999
+// Abilities: Ax0V (Advanced - Attack Bonus), EditorSuffix (Editor Suffix)
+{
+ (2048)
+}
+
+STRING 1000
+// Abilities: Ax0W (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1001
+// Abilities: Ax0W (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (1)
+}
+
+STRING 1002
+// Abilities: Ax0X (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1003
+// Abilities: Ax0X (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (2)
+}
+
+STRING 1004
+// Abilities: Ax0Y (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1005
+// Abilities: Ax0Y (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (4)
+}
+
+STRING 1006
+// Abilities: Ax0Z (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1007
+// Abilities: Ax0Z (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (8)
+}
+
+STRING 1008
+// Abilities: Ax10 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1009
+// Abilities: Ax10 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (16)
+}
+
+STRING 1010
+// Abilities: Ax11 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1011
+// Abilities: Ax11 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (32)
+}
+
+STRING 1012
+// Abilities: Ax12 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1013
+// Abilities: Ax12 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (64)
+}
+
+STRING 1014
+// Abilities: Ax13 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1015
+// Abilities: Ax13 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (128)
+}
+
+STRING 1016
+// Abilities: Ax14 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1017
+// Abilities: Ax14 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (256)
+}
+
+STRING 1018
+// Abilities: Ax15 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1019
+// Abilities: Ax15 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (512)
+}
+
+STRING 1020
+// Abilities: Ax16 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1021
+// Abilities: Ax16 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (1024)
+}
+
+STRING 1022
+// Abilities: Ax17 (Advanced - Defense Bonus), Name (Name)
+{
+Advanced - Defense Bonus
+}
+
+STRING 1023
+// Abilities: Ax17 (Advanced - Defense Bonus), EditorSuffix (Editor Suffix)
+{
+ (2048)
+}
+
+STRING 1024
+// Abilities: Ax18 (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1025
+// Abilities: Ax18 (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (1)
+}
+
+STRING 1026
+// Abilities: Ax19 (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1027
+// Abilities: Ax19 (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (2)
+}
+
+STRING 1028
+// Abilities: Ax1A (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1029
+// Abilities: Ax1A (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (4)
+}
+
+STRING 1030
+// Abilities: Ax1B (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1031
+// Abilities: Ax1B (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (8)
+}
+
+STRING 1032
+// Abilities: Ax1C (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1033
+// Abilities: Ax1C (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (16)
+}
+
+STRING 1034
+// Abilities: Ax1D (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1035
+// Abilities: Ax1D (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (32)
+}
+
+STRING 1036
+// Abilities: Ax1E (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1037
+// Abilities: Ax1E (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (64)
+}
+
+STRING 1038
+// Abilities: Ax1F (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1039
+// Abilities: Ax1F (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (128)
+}
+
+STRING 1040
+// Abilities: Ax1G (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1041
+// Abilities: Ax1G (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (256)
+}
+
+STRING 1042
+// Abilities: Ax1H (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1043
+// Abilities: Ax1H (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (512)
+}
+
+STRING 1044
+// Abilities: Ax1I (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1045
+// Abilities: Ax1I (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (1024)
+}
+
+STRING 1046
+// Abilities: Ax1J (Advanced - Life Bonus), Name (Name)
+{
+Advanced - Life Bonus
+}
+
+STRING 1047
+// Abilities: Ax1J (Advanced - Life Bonus), EditorSuffix (Editor Suffix)
+{
+ (2048)
+}
+
+STRING 1048
+// Abilities: Ax1K (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1049
+// Abilities: Ax1K (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (1)
+}
+
+STRING 1050
+// Abilities: Ax1L (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1051
+// Abilities: Ax1L (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (2)
+}
+
+STRING 1052
+// Abilities: Ax1M (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1053
+// Abilities: Ax1M (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (4)
+}
+
+STRING 1054
+// Abilities: Ax1N (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1055
+// Abilities: Ax1N (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (8)
+}
+
+STRING 1056
+// Abilities: Ax1O (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1057
+// Abilities: Ax1O (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (16)
+}
+
+STRING 1058
+// Abilities: Ax1P (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1059
+// Abilities: Ax1P (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (32)
+}
+
+STRING 1060
+// Abilities: Ax1Q (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1061
+// Abilities: Ax1Q (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (64)
+}
+
+STRING 1062
+// Abilities: Ax1R (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1063
+// Abilities: Ax1R (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (128)
+}
+
+STRING 1064
+// Abilities: Ax1S (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1065
+// Abilities: Ax1S (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (256)
+}
+
+STRING 1066
+// Abilities: Ax1T (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1067
+// Abilities: Ax1T (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (512)
+}
+
+STRING 1068
+// Abilities: Ax1U (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1069
+// Abilities: Ax1U (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (1024)
+}
+
+STRING 1070
+// Abilities: Ax1V (Advanced - Mana Bonus), Name (Name)
+{
+Advanced - Mana Bonus
+}
+
+STRING 1071
+// Abilities: Ax1V (Advanced - Mana Bonus), EditorSuffix (Editor Suffix)
+{
+ (2048)
+}
+
+STRING 1072
+// Abilities: Ax1W (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1073
+// Abilities: Ax1W (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (1)
+}
+
+STRING 1074
+// Abilities: Ax1X (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1075
+// Abilities: Ax1X (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (2)
+}
+
+STRING 1076
+// Abilities: Ax1Y (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1077
+// Abilities: Ax1Y (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (4)
+}
+
+STRING 1078
+// Abilities: Ax1Z (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1079
+// Abilities: Ax1Z (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (8)
+}
+
+STRING 1080
+// Abilities: Ax20 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1081
+// Abilities: Ax20 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (16)
+}
+
+STRING 1082
+// Abilities: Ax21 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1083
+// Abilities: Ax21 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (32)
+}
+
+STRING 1084
+// Abilities: Ax22 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1085
+// Abilities: Ax22 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (64)
+}
+
+STRING 1086
+// Abilities: Ax23 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1087
+// Abilities: Ax23 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (128)
+}
+
+STRING 1088
+// Abilities: Ax24 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1089
+// Abilities: Ax24 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (256)
+}
+
+STRING 1090
+// Abilities: Ax25 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1091
+// Abilities: Ax25 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (512)
+}
+
+STRING 1092
+// Abilities: Ax26 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1093
+// Abilities: Ax26 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (1024)
+}
+
+STRING 1094
+// Abilities: Ax27 (Advanced - Sight Range Bonus), Name (Name)
+{
+Advanced - Sight Range Bonus
+}
+
+STRING 1095
+// Abilities: Ax27 (Advanced - Sight Range Bonus), EditorSuffix (Editor Suffix)
+{
+ (2048)
+}
+
+STRING 1096
+// Abilities: Ax28 (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1097
+// Abilities: Ax28 (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (1)
+}
+
+STRING 1098
+// Abilities: Ax29 (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1099
+// Abilities: Ax29 (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (2)
+}
+
+STRING 1100
+// Abilities: Ax2A (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1101
+// Abilities: Ax2A (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (4)
+}
+
+STRING 1102
+// Abilities: Ax2B (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1103
+// Abilities: Ax2B (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (8)
+}
+
+STRING 1104
+// Abilities: Ax2C (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1105
+// Abilities: Ax2C (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (16)
+}
+
+STRING 1106
+// Abilities: Ax2D (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1107
+// Abilities: Ax2D (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (32)
+}
+
+STRING 1108
+// Abilities: Ax2E (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1109
+// Abilities: Ax2E (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (64)
+}
+
+STRING 1110
+// Abilities: Ax2F (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1111
+// Abilities: Ax2F (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (128)
+}
+
+STRING 1112
+// Abilities: Ax2G (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1113
+// Abilities: Ax2G (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (256)
+}
+
+STRING 1114
+// Abilities: Ax2H (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1115
+// Abilities: Ax2H (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (512)
+}
+
+STRING 1116
+// Abilities: Ax2I (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1117
+// Abilities: Ax2I (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (1024)
+}
+
+STRING 1118
+// Abilities: Ax2J (Advanced - Leech Life), Name (Name)
+{
+Advanced - Leech Life
+}
+
+STRING 1119
+// Abilities: Ax2J (Advanced - Leech Life), EditorSuffix (Editor Suffix)
+{
+ (2048)
+}
+
+STRING 1120
+// Abilities: Ax0J (Advanced - Hero Glow), Name (Name)
+{
+Advanced - Hero Glow
+}
+
+STRING 1122
+{
+|cffFF6600Medium|r |cffFFFFFF[For Gamer]|r
+}
+
+STRING 1123
+{
+|cffff3300Hard|r |cffFFFFFF[For real Soulkeepers]|r
+}
+
+STRING 1124
+{
+Vote for Difficulty!
+}
+
+STRING 1125
+{
+|cffff0000Master|r |cffFFFFFF[For suicide]|r
+}
+
+STRING 1127
+{
+|cff33cc99Difficulty has been set to|r |cffff3300Medium|r.
+}
+
+STRING 1128
+{
+|cff33cc99Difficulty has been set to|r |cffff3300Master|r.
+}
+
+STRING 1129
+{
+|cff33cc99Difficulty has been set to|r |cffff3300Hard|r.
+}
+
+STRING 1130
+// Units: h00T (Rock Tower), Name (Name)
+{
+Rock Tower
+}
+
+STRING 1131
+// Units: h00T (Rock Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Rock Tower|r [|cffff0000E|r]
+}
+
+STRING 1132
+// Units: h00T (Rock Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00320|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Siege|r
+Features: |cffffcc00-|r
+}
+
+STRING 1133
+// Units: h00T (Rock Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1134
+// Units: h00U (Rock Tower II), Name (Name)
+{
+Rock Tower II
+}
+
+STRING 1135
+// Units: h00U (Rock Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Rock Tower II|r [|cffff0000E|r]
+}
+
+STRING 1137
+// Units: h00U (Rock Tower II), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1138
+// Units: h00V (Rock Tower III), Name (Name)
+{
+Rock Tower III
+}
+
+STRING 1139
+// Units: h00V (Rock Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Rock Tower III|r [|cffff0000E|r]
+}
+
+STRING 1141
+// Units: h00V (Rock Tower III), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1146
+// Units: h00E (Nightmare Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Nightmare Tower|r [|cffff0000F|r]
+}
+
+STRING 1147
+// Units: h00E (Nightmare Tower), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 1148
+// Units: h00I (Natural Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Natural Tower|r [|cffff0000D|r]
+}
+
+STRING 1149
+// Units: h00N (Zeus Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Zeus Tower|r [|cffff0000E|r]
+}
+
+STRING 1150
+// Units: h00W (Forbearance), Name (Name)
+{
+Forbearance
+}
+
+STRING 1151
+// Units: h00W (Forbearance), Tip (Tooltip - Basic)
+{
+|cffffcc00Forbearance|r [|cffff0000C|r]
+}
+
+STRING 1152
+// Units: h00W (Forbearance), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc0050|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00-|r
+}
+
+STRING 1153
+// Units: h00X (Forbearance II), Name (Name)
+{
+Forbearance II
+}
+
+STRING 1154
+// Units: h00X (Forbearance II), Tip (Tooltip - Basic)
+{
+|cffffcc00Forbearance II|r [|cffff0000C|r]
+}
+
+STRING 1155
+// Units: h00X (Forbearance II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00200|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00-|r
+}
+
+STRING 1156
+// Units: h00Y (Forbearance III), Name (Name)
+{
+Forbearance III
+}
+
+STRING 1157
+// Units: h00Y (Forbearance III), Tip (Tooltip - Basic)
+{
+|cffffcc00Forbearance III|r [|cffff0000C|r]
+}
+
+STRING 1158
+// Units: h00Y (Forbearance III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00600|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Pierce|r
+Features: |cffffcc00-|r
+}
+
+STRING 1159
+// Units: h00Y (Forbearance III), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1160
+// Units: h010 (Winter Tower II), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1161
+// Upgrades: R003 (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Not Available
+}
+
+STRING 1162
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1163
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1164
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1165
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1166
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1167
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1168
+{
+|cffff3300Warning!! LvL 22 is the first Invisible-Level!! 
+Upgrade Eyes of Souls at the Tree of Souls!!|r (LvL 22,33,44)
+}
+
+STRING 1169
+// Upgrades: R001 (Plündern erforschen), Ubertip (Tooltip - Extended)
+{
+The way of Water. Use this to get the ability to upgrade Sacred Tower to Hydra Tower.
+}
+
+STRING 1170
+// Upgrades: R002 (Plündern erforschen), Ubertip (Tooltip - Extended)
+{
+The way of Fire. Use this to get the ability to upgrade Sacred Tower to Infernal Tower.
+}
+
+STRING 1171
+// Units: h00U (Rock Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc001240|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Siege|r
+Features: |cffffcc00Earthquake|r
+}
+
+STRING 1172
+// Units: h00V (Rock Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc003720|r
+Speed: |cffffcc00Slow|r
+DMG-Typ: |cffffcc00Siege|r
+Features: |cffffcc00Earthquake|r
+}
+
+STRING 1173
+// Units: h00Z (Winter Tower), Name (Name)
+{
+Winter Tower
+}
+
+STRING 1176
+// Units: h010 (Winter Tower II), Name (Name)
+{
+Winter Tower II
+}
+
+STRING 1177
+// Units: h010 (Winter Tower II), Tip (Tooltip - Basic)
+{
+|cffffcc00Winter Tower II|r [|cffff0000C|r]
+}
+
+STRING 1179
+// Units: h011 (Winter Tower III), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 1180
+// Units: h011 (Winter Tower III), Name (Name)
+{
+Winter Tower III
+}
+
+STRING 1181
+// Units: h011 (Winter Tower III), Tip (Tooltip - Basic)
+{
+|cffffcc00Winter Tower III|r [|cffff0000C|r]
+}
+
+STRING 1183
+// Abilities: Ax0H (Advanced - Choose Hero), Hotkey (Hotkey - Normal)
+{
+C
+}
+
+STRING 1185
+// Abilities: A00K (Roots of Nature I), Ubertip (Tooltip - Normal - Extended)
+{
+Causes Roots to burst from the ground immobilizing a target enemy. The unit cannot move for 5 seconds and gets 30 damage per second.
+}
+
+STRING 1186
+// Abilities: A00L (Roots of Nature II), Ubertip (Tooltip - Normal - Extended)
+{
+Causes Roots to burst from the ground immobilizing a target enemy. The unit cannot move for 5 seconds and gets 300 damage per second.
+}
+
+STRING 1187
+// Abilities: A00M (Roots of Nature III), Ubertip (Tooltip - Normal - Extended)
+{
+Causes Roots to burst from the ground immobilizing a target enemy. The unit cannot move for 5 seconds and gets 1000 damage per second.
+}
+
+STRING 1188
+// Abilities: A00P (Earthquake), Name (Name)
+{
+Earthquake
+}
+
+STRING 1189
+// Abilities: A00P (Earthquake), Tip (Tooltip - Normal)
+{
+|cffffcc00Earthquake|
+}
+
+STRING 1191
+// Abilities: A00N (Earthquake II), Name (Name)
+{
+Earthquake II
+}
+
+STRING 1192
+// Abilities: A00N (Earthquake II), Tip (Tooltip - Normal)
+{
+|cffffcc00Earthquake II|r
+}
+
+STRING 1195
+// Abilities: A00O (Blizzard), Tip (Tooltip - Normal)
+{
+|cffffcc00Blizzard|r
+}
+
+STRING 1197
+// Abilities: A00Q (Blizzard II), Name (Name)
+{
+Blizzard II
+}
+
+STRING 1198
+// Abilities: A00Q (Blizzard II), Tip (Tooltip - Normal)
+{
+|cffffcc00Blizzard II|r
+}
+
+STRING 1199
+// Abilities: A00P (Earthquake), Ubertip (Tooltip - Normal - Extended)
+{
+Makes the ground tremble and break and slows units within the area of effect by 10%.
+}
+
+STRING 1200
+// Abilities: A00N (Earthquake II), Ubertip (Tooltip - Normal - Extended)
+{
+Makes the ground tremble and break and slows units within the area of effect by 30%.
+}
+
+STRING 1203
+// Units: h00Z (Winter Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00120|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Slow|r
+}
+
+STRING 1204
+// Units: h010 (Winter Tower II), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00470|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Slow, Blizzard|r
+}
+
+STRING 1205
+// Units: h011 (Winter Tower III), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc001410|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Magic|r
+Features: |cffffcc00Slow, Blizzard|r
+}
+
+STRING 1206
+// Abilities: A00O (Blizzard), Ubertip (Tooltip - Normal - Extended)
+{
+Calls down 6 waves of freezing ice shards that damage units in a target area. Each wave deals 4000 Dmg.
+}
+
+STRING 1207
+// Abilities: A00Q (Blizzard II), Ubertip (Tooltip - Normal - Extended)
+{
+Calls down 10 waves of freezing ice shards that damage units in a target area. Each wave deals 8000 Dmg.
+}
+
+STRING 1208
+// Abilities: A00D (Lightning III), Ubertip (Tooltip - Normal - Extended)
+{
+Summons 8 lightnings, which make 3000 dmg per target.
+}
+
+STRING 1209
+// Units: h012 (Wild Tower), Name (Name)
+{
+Wild Tower
+}
+
+STRING 1210
+// Units: h012 (Wild Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Wild Tower|r [|cffff0000G|r]
+}
+
+STRING 1212
+// Units: h012 (Wild Tower), Hotkey (Hotkey)
+{
+G
+}
+
+STRING 1213
+// Abilities: A00R (Roar), Name (Name)
+{
+Roar
+}
+
+STRING 1215
+// Abilities: A00R (Roar), Tip (Tooltip - Normal)
+{
+|cffffcc00Roar|r
+}
+
+STRING 1216
+// Units: h012 (Wild Tower), Ubertip (Tooltip - Extended)
+{
+DMG: |cffffcc00340|r
+Speed: |cffffcc00Middle|r
+DMG-Typ: |cffffcc00Normal|r
+Features: |cffffcc00Roar|r
+}
+
+STRING 1221
+{
+Soulkeeper TD - |cffff3300Medium|r
+}
+
+STRING 1222
+{
+Soulkeeper TD - |cffff3300Hard|r
+}
+
+STRING 1223
+{
+Soulkeeper TD - |cffff3300Master|r
+}
+
+STRING 1224
+// Abilities: A00R (Roar), Ubertip (Tooltip - Normal - Extended)
+{
+This spell gives friendly towers for 10 seconds a 8% bonus to damage.
+}
+
+STRING 1226
+// Units: h00Z (Winter Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Winter Tower|r [|cffff0000F|r]
+}
+
+STRING 1227
+// Units: h00Z (Winter Tower), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 1229
+{
+|Cff00ff00SkTD1.1 b by EnTrA1L|r
+}
+

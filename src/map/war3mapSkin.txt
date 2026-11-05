@@ -1,0 +1,15 @@
+[CustomSkin]
+ToolTipLumberIcon=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+LumberIcon=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+GoldIcon=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+IdlePeon=ReplaceableTextures\CommandButtons\BTNHeroWarden.blp
+
+[FrameDef]
+UPKEEP_NONE=TRIGSTR_1229
+QUESTSTATUSLABEL=TRIGSTR_482
+KEY_QUESTS=TRIGSTR_481
+QUESTS=TRIGSTR_483
+RESOURCE_UBERTIP_LUMBER=TRIGSTR_574
+LUMBER=TRIGSTR_573
+COLON_LUMBER=TRIGSTR_572
+

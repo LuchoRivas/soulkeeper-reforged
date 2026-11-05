@@ -1,0 +1,8 @@
+# Map files are stored byte for byte: no line ending conversion.
+src/map/** -text
+# But the script and text files can still be diffed as text.
+src/map/war3map.j diff
+src/map/war3map.wts diff
+src/map/*.txt diff
+*.sh text eol=lf
+*.py text eol=lf
