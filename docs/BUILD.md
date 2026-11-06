@@ -2,7 +2,7 @@
 
 `tools/build.sh` does everything:
 
-1. On first run it downloads and builds [StormLib](https://github.com/ladislav-zezula/StormLib) (to write the MPQ archive) and [pjass](https://github.com/lep/pjass) (to check the script) into `tools/.cache/`.
+1. On first run it downloads and builds [StormLib](https://github.com/ladislav-zezula/StormLib) (to write the MPQ archive) and [pjass](https://github.com/lep/pjass) (to check the script) into `tools/.cache/`. Both are pinned to exact commits at the top of `tools/build.sh` (`STORMLIB_REF`, `PJASS_REF`), because the map bytes depend on the StormLib version. Changing a pin rebuilds the tools on the next run.
 2. Runs `tools/build.py`, which:
    - copies `src/map/`;
    - sets the map name in `war3map.wts` (STRING 1), in the file header and in the encoded copy checked by the anti-tamper check (see NOTES.md);
@@ -40,3 +40,14 @@ Without `refs/` the map still builds, but the script is not checked.
 The runner has no game files, so `refs/reforged/` is taken from [lep/jassdoc](https://github.com/lep/jassdoc) at a pinned commit (`JASSDOC_REF` in the workflow). Those files carry `/** */` documentation blocks that pjass rejects; `tools/jass_strip.py` removes them. The pjass check is mandatory in CI: the job fails if it does not run.
 
 CI checks against Reforged only. There is no public copy of the 1.27b files that pjass accepts, so the 1.27b check stays local.
+
+### Publishing a version
+
+Pushing a tag builds the map and publishes a GitHub Release with the `.w3m` and its SHA-256. The tag must be equal to `VERSION` in `tools/build.py`, otherwise the build fails before publishing:
+
+```
+git tag -a fix1 -m "fix1: ..."
+git push origin fix1
+```
+
+If a release step fails, delete the release (if it was created) and re-run the workflow, or delete and push the tag again.

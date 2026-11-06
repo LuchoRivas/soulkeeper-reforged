@@ -3,6 +3,8 @@ name: Build map
 on:
   push:
     branches: [main]
+    # Any tag publishes a GitHub Release with the built map (release job below).
+    tags: ['*']
   pull_request:
   workflow_dispatch:
 
@@ -24,6 +26,18 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7
+
+      # The map shows VERSION from tools/build.py in its name and texts; the tag must match it.
+      - name: Check tag matches VERSION
+        if: github.ref_type == 'tag'
+        env:
+          TAG: ${{ github.ref_name }}
+        run: |
+          version=$(python3 -c "import re; print(re.search(r\"^VERSION = '([^']+)'\", open('tools/build.py').read(), re.M).group(1))")
+          if [ "$TAG" != "$version" ]; then
+            echo "::error::Tag '$TAG' does not match VERSION '$version' in tools/build.py"
+            exit 1
+          fi
 
       - name: Install flex and bison (for pjass)
         run: sudo apt-get update -qq && sudo apt-get install -y -qq flex bison
@@ -63,3 +77,37 @@ jobs:
           name: soulkeeper-map-${{ github.sha }}
           path: build/*.w3m
           if-no-files-found: error
+
+  release:
+    if: github.ref_type == 'tag'
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          name: soulkeeper-map-${{ github.sha }}
+          path: dist
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          cd dist
+          sha256sum -- *.w3m > SHA256SUMS
+          {
+            echo "SoulkeeperTD Showdown 1.1 **$TAG**, built from tag \`$TAG\` by GitHub Actions."
+            echo
+            echo "Copy the \`.w3m\` into \`Documents\\Warcraft III\\Maps\\\` and host it as a custom game. Runs on Warcraft III 1.27b and Reforged."
+            echo
+            echo "Original map by **EnTrA1L**. See the README for what changed and for the license status."
+            echo
+            echo "SHA-256:"
+            echo '```'
+            cat SHA256SUMS
+            echo '```'
+          } > notes.md
+          gh release create "$TAG" --repo "$GITHUB_REPOSITORY" --title "$TAG" \
+            --notes-file notes.md --verify-tag -- *.w3m SHA256SUMS
