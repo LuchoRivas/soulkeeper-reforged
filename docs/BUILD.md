@@ -32,3 +32,11 @@ refs/reforged/Blizzard.j
 Where to get them: on 1.27b, `Scripts\common.j` and `Scripts\Blizzard.j` inside `War3Patch.mpq`; on Reforged, `war3.w3mod:scripts\common.j` and `blizzard.j` inside the CASC storage.
 
 Without `refs/` the map still builds, but the script is not checked.
+
+## Continuous build (GitHub Actions)
+
+`.github/workflows/build.yml` builds the map on every push to `main`, on pull requests and on demand (Actions tab, "Run workflow"). The `.w3m` is attached to the run as an artifact.
+
+The runner has no game files, so `refs/reforged/` is taken from [lep/jassdoc](https://github.com/lep/jassdoc) at a pinned commit (`JASSDOC_REF` in the workflow). Those files carry `/** */` documentation blocks that pjass rejects; `tools/jass_strip.py` removes them. The pjass check is mandatory in CI: the job fails if it does not run.
+
+CI checks against Reforged only. There is no public copy of the 1.27b files that pjass accepts, so the 1.27b check stays local.

@@ -1,0 +1,65 @@
+name: Build map
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# jassdoc commit used for the pjass references (common.j / Blizzard.j, Reforged).
+# Pinned so a change upstream cannot break or silently change the check.
+env:
+  JASSDOC_REF: 509c14dd0f23e6847516b8a813478974268e9f44
+
+# Explicit bash adds -o pipefail, so "build.sh | tee" still fails when build.sh fails.
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install flex and bison (for pjass)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq flex bison
+
+      # StormLib, newmpq and pjass are built once and reused until the build tooling changes.
+      - name: Cache build tools
+        uses: actions/cache@v6
+        with:
+          path: tools/.cache
+          key: tools-${{ runner.os }}-${{ hashFiles('tools/build.sh', 'tools/newmpq.cpp') }}
+
+      - name: Get pjass references from jassdoc
+        uses: actions/checkout@v7
+        with:
+          repository: lep/jassdoc
+          ref: ${{ env.JASSDOC_REF }}
+          path: .ci/jassdoc
+
+      - name: Prepare refs/reforged
+        run: |
+          mkdir -p refs/reforged
+          for f in common.j Blizzard.j; do
+            python3 tools/jass_strip.py ".ci/jassdoc/$f" "refs/reforged/$f"
+          done
+
+      - name: Build
+        run: bash tools/build.sh | tee build.log
+
+      # build.py skips the check silently when pjass or refs/ are missing; in CI it is mandatory.
+      - name: Require the pjass check
+        run: |
+          grep -q 'pjass reforged: OK' build.log
+
+      - name: Upload map
+        uses: actions/upload-artifact@v7
+        with:
+          name: soulkeeper-map-${{ github.sha }}
+          path: build/*.w3m
+          if-no-files-found: error
