@@ -2,6 +2,8 @@
 
 Revival of **SoulkeeperTD Showdown 1.1**, a Warcraft III tower defense map by **EnTrA1L**. The map was never updated and stopped working on newer versions of the game. This project makes it run again on Warcraft III 1.27b (Legacy) and Reforged without changing how it plays.
 
+![Soulkeeper TD fix1 running on Reforged](docs/img/gameplay.jpg)
+
 ## Status
 
 | Version | Changes | 1.27b | Reforged |
@@ -9,6 +11,12 @@ Revival of **SoulkeeperTD Showdown 1.1**, a Warcraft III tower defense map by **
 | fix1 | Compatibility fix (JASS "return bug", closed in patch 1.24). Map rebuilt so it opens in the World Editor. | Tested | Tested |
 
 Technical details in [docs/NOTES.md](docs/NOTES.md).
+
+## Screenshots
+
+| Loading screen | Difficulty vote |
+|---|---|
+| ![Loading screen of Soulkeeper TD v1.1 fix1](docs/img/loading-screen.jpg) | ![Difficulty vote at the start of a game](docs/img/difficulty-vote.jpg) |
 
 ## Layout
 
